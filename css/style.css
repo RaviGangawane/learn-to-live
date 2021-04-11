@@ -1,3 +1,8 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../font/TisaSansWeb_W03_BoldItalic.ttf);
+}
+
 .header-site {
     background-color: #4a4139 !important;
     background-image: url("../images/menu_bg.png") !important;
@@ -72,11 +77,6 @@ body {
 
 .card {
     background-color: hsl(33deg 61% 93%);
-}
-
-@font-face {
-    font-family: myFirstFont;
-    src: url(../font/TisaSansWeb_W03_BoldItalic.ttf);
 }
 
 .card {
