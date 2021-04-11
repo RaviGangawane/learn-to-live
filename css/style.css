@@ -76,7 +76,7 @@ body {
 
 @font-face {
     font-family: myFirstFont;
-    src: url(/Font/TisaSansWeb_W03_BoldItalic.ttf);
+    src: url(../font/TisaSansWeb_W03_BoldItalic.ttf);
 }
 
 .card {
