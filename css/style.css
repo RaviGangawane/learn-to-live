@@ -1,6 +1,6 @@
 .header-site {
-    background-color: #000000 !important;
-    background-image: url(/images/menu_bg.png) !important;
+    background-color: #4a4139 !important;
+    background-image: url("/images/menu_bg.png") !important;
     background-position: 100% 100% !important;
 }
 
@@ -11,14 +11,14 @@
 }
 
 .nav-bg {
-    background-color: #000000 !important;
-    background-image: url(/images/menu_bg.png) !important;
+    background-color: #4a4139 !important;
+    background-image: url("/images/menu_bg.png") !important;
     background-position: 100% 100% !important;
 }
 
 footer {
-    background-color: #000000;
-    background-image: url(/images/menu_bg.png);
+    background-color: #4a4139;
+    background-image: url("/images/menu_bg.png");
     background-position: 100% 100%;
     color: #cfcfcd;
 }
